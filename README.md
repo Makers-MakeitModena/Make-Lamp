@@ -2,6 +2,9 @@
 
 Lampada RGB intelligente con controllo WiFi e pulsanti fisici.
 
+![Albero rosa](https://github.com/user-attachments/assets/2f4e6e58-16d7-4c5c-83ba-a967154247a2)
+
+
 ---
 
 ## ✨ Caratteristiche
